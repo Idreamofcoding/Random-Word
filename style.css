@@ -1,0 +1,11 @@
+p {
+    text-transform: uppercase;
+    color: blue;
+    font-size: 6em;
+    font-style: bold;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+}
